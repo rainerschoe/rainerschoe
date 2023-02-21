@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on the [gWhisper](https://github.com/IBM/gWhisper) and the [PjonHL](https://github.com/rainerschoe/PjonHL) projects.
-- 🌱 I’m currently trying out Rust 
+- 🔭 I’m currently working on a nice PubSub middleware library in rust for use in home-automation...
+- 🌱 I’m currently into Rust ... Rust is awesome!
 - 👯 I’m looking to collaborate on anything related to home-automation, low-end networking and bus protocols.
 - 💬 Ask me about C++ / AVR / Home automation / gRPC
